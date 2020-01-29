@@ -5,23 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <title>Início</title>
+    <title>DM | Área Restrita</title>
 </head>
 <body>
+    <div class="login-box-body">
+        <div class="login-logo"><img src="logo-login.png" alt="user image" class="img-circle" style="max-width: 30%; "></div>
+    </div>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12"></div>
-            <table class="table table-striped">
-        <thead>
-            <tr>
-                <th>ID</th>
-                <th>Nome</th>
-                <th>Telefone</th>
-                <th>E-mail</th>
-                <th>Ação</th>
-            </tr>
-        </thead>
+
+    
             
             
             </table>
